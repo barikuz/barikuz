@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Engin <br><br>I'm a Software Engineering student passionate about web and mobile development.  <br>Currently learning **React** and **React Native**, while working on an e-commerce app called *Fisherman*.  <br><br>I have experience with **Laravel, HTML, CSS, Bootstrap, JavaScript**, and a solid background in **data structures and algorithms**.  <br>Always eager to learn, build, and improve. 🚀<br>
+Hi, I'm Engin <br><br>I'm a Software Engineering student passionate about backend development.  <br>Currently learning **Nest.js**, while working on an e-commerce and fishing assistant app called *Mera*.  <br><br>I have experience working across multiple programming languages and frameworks, and a solid background in **data structures and algorithms**.  <br>Always eager to learn, build, and improve. 🚀<br>
 
 
 ## 🌐 Socials:
