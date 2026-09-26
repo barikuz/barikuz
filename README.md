@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Engin <br><br>I'm a Software Engineering student passionate about backend development.  <br>Currently learning **Nest.js**, while working on an e-commerce and fishing assistant app called *Mera*.  <br><br>I have experience working across multiple programming languages and frameworks, and a solid background in **data structures and algorithms**.  <br>Always eager to learn, build, and improve. 🚀<br>
+Hi, I'm Engin <br><br>I'm a Software Engineering student passionate about game development and interactive experiences.<br>Currently learning and building games with Unity and C#, focusing on gameplay programming, game mechanics, and 2D game development.<br><br>I enjoy turning ideas into playable projects, experimenting with new mechanics, and continuously improving my programming skills through hands-on projects.<br>Always learning, building, and creating. 🎮🚀<br>
 
 
 ## 🌐 Socials:
